@@ -16,7 +16,7 @@ Neste material veremos as 2 pontas do processo, ou seja a **Entrada** e a **Saí
 
 Em Java Console, existem alguns Métodos (funções), que são responsáveis pela Entrada e Saída de dados, respectivamente:
 
--  **Saída:** 
+-  **Saída:**
 
   - #### Método printf();
 
