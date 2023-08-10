@@ -2,7 +2,7 @@
 
 <h2>Passo 01 - Download do instalador</h2>
 
-1) Acesse o site: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html para efetuar o download do **Java SE 17**.
+1) Acesse o site: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html para efetuar o download do **Java SE 17**..
 
 <div align="center"><img src="https://i.imgur.com/QSYo1Ee.png?1" title="source: imgur.com" /></div>
 
