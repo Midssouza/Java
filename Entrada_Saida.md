@@ -8,7 +8,7 @@ Todo o programa de computador é composto por 3 elementos básicos:
 
 **Processamento:** São as instruções do algoritmo responsáveis por processar as informações. **Exemplo:** Calcule a média dos 2 números digitados pelo usuário. 
 
-**Saída:** Responsável por  mostrar os resultados do processamento na Tela do Computador, ou seja, é um Comando de Saída de Dados. **Exemplo:** Exibir na tela (console) o resultado do cálculo da média..
+**Saída:** Responsável por  mostrar os resultados do processamento na Tela do Computador, ou seja, é um Comando de Saída de Dados. **Exemplo:** Exibir na tela (console) o resultado do cálculo da média.
 
 <div align="center"><img src="https://i.imgur.com/YNUpmlg.png" title="source: imgur.com" width="60%"/></div>
 
