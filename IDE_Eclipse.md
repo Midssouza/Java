@@ -108,7 +108,7 @@ Além do **Eclipse**, existem outras IDE's voltadas para Java:
 3. O nosso primeiro projeto Java se chamará **helloWorld**. Digite o nome do projeto no item **Project Name** e clique em **Finish** para concluir.
 
 | <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | <div align="left"> **ATENÇÃO:** Uma boa prática ao nomear os projetos Java é utilizar somente letras minúsculas.</div> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| -------------------------------------------------------------- | ------------------------------------------------------------ |
 
 <div align="center">
   <img src="https://i.imgur.com/cDFPPEq.png" title="source: imgur.com" />
