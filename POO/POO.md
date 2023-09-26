@@ -159,7 +159,7 @@ Observe que para receber este valor, foi necessário criar uma variável do mesm
 
 <br />
 
-<div align="left"><img src="https://i.imgur.com/JACNZiR.png" title="source: imgur.com" width="25px"/> <a href="https://github.com/rafaelq80/exemplos_java/blob/main/metodos/metodos/src/metodos/Exemplo01.java" target="_blank"><b>Código fonte</b></a>
+
 
 <br />
 
@@ -200,7 +200,7 @@ Método sem retorno (void)!
 
 <br />
 
-<div align="left"><img src="https://i.imgur.com/JACNZiR.png" title="source: imgur.com" width="25px"/> <a href="https://github.com/rafaelq80/exemplos_java/blob/main/metodos/metodos/src/metodos/Exemplo02.java" target="_blank"><b>Código fonte</b></a>
+
 
 <br />
 
@@ -309,7 +309,7 @@ Execute o código e teste a calculadora.
 
 <br />
 
-<div align="left"><img src="https://i.imgur.com/JACNZiR.png" title="source: imgur.com" width="25px"/> <a href="https://github.com/rafaelq80/exemplos_java/blob/main/metodos/metodos/src/metodos/Calculadora.java" target="_blank"><b>Código fonte</b></a>
+
 <br />
 
 <h2>2. Pacotes</h2>
